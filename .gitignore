@@ -1,0 +1,17 @@
+*.egg-info/
+build/
+dist/
+*.log
+*.pyc
+__pycache__/
+*.png
+**/.DS_Store
+**/*.pyc
+profiles
+.idea
+docs/_build
+.coverage
+.eggs
+*.sublime-*
+.vscode
+geckodriver.log
